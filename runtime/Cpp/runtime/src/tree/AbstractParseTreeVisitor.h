@@ -59,7 +59,6 @@ namespace tree {
       return defaultResult();
     }
 
-  protected:
     /// <summary>
     /// Gets the default value returned by visitor methods. This value is
     /// returned by the default implementations of
